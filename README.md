@@ -5,6 +5,5 @@
 
 - 📫 How to reach me **kevin@kb.gg**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
