@@ -15,7 +15,7 @@ I'm available for work on a contract basis. I have restrictions on the types of 
   - I will only take on work which contributes to an open source project
   - I will only take on work which can be done outside of my full-time employment hours
   - I will only take on work which does not interfere with my responsibilities to my full-time employer
-  - I will take on work which consits of:
+  - I will take on work which consists of:
     - Pair programming
     - Community management
     - Joining virtual meetings as an advisor
