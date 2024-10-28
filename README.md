@@ -21,5 +21,6 @@ I'm available for work on a contract basis. I have restrictions on the types of 
     - Joining virtual meetings as an advisor
     - Architecting software
     - Writing documentation
+    - Code reviews
 - What is your rate?
   - My rate is $200/hr (USD) with a 1 hr minimum 
