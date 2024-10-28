@@ -24,3 +24,5 @@ I'm available for work on a contract basis. I have restrictions on the types of 
     - Code reviews
 - What is your rate?
   - My rate is $200/hr (USD) with a 1 hr minimum 
+- Why is your rate so high?
+  - My time is extremely valuable to me, and to be honest, I don't need the work.
